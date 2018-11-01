@@ -39,7 +39,7 @@
   <!-- EN: Need miner -->
   <NeedMiner>דורש כורה</NeedMiner>
   <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
-  <NeedMinerDesc>הקצאת אבנים לכריה, אבל אין מתישב עם סוג העבודה של כריאה.\n\nהקצה מתישב לסוג העבודה של כריאה.</NeedMinerDesc>
+  <NeedMinerDesc>הקצאת אבנים לכריה, אבל אין מתישב עם סוג העבודה של כרייה.\n\nהקצה מתישב לסוג העבודה של כרייה.</NeedMinerDesc>
 
   <!-- EN: Need warden -->
   <NeedWarden>דרוש סוהר</NeedWarden>
